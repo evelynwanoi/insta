@@ -1,0 +1,1 @@
+java -Djava.library.path=D:\portableEve\devreact\dynamodb\DynamoDBLocal_lib -jar D:\portableEve\devreact\dynamodb\DynamoDBLocal.jar -dbPath D:\portableEve\devreact\insta\db -sharedDb
